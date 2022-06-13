@@ -12,6 +12,58 @@ Upon completing the course, students will have learned about population health, 
 # Data Science Infusion
 The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The module consists of the following:
 
+# Navigating the Repository
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 - Introductory CADS Module
+            <ul>
+              <li>Survey Research Lecture</li>
+              <li>Secondary Data Analysis Lecture</li>
+            </ul>
+          </li>
+          <li>Module 2 - Descriptive Statistics Module
+            <ul>
+              <li>Descriptive Statistics Lecture</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
+      <td>
+        <ul>
+          <li>Module 1 Assignment</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 Quiz</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td>
+        <ul>
+          <li>Sample student submission from the project, team assignments, and homework</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
 - [Jiangmin Xu, Instructor of this module and Associate Professor of Healthcare Management as Winston-Salem State University](mailto:xuji@wssu.edu)
