@@ -20,7 +20,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Homework</a></td>
       <td>
         <ul>
           <li>Module 1 - Introductory CADS Module
