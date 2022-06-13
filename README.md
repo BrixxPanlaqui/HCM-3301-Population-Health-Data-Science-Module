@@ -37,30 +37,6 @@ The primary focus of this repository concerns only the portion of the course whe
         </ul>
       </td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
-      <td>
-        <ul>
-          <li>Module 1 Assignment</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
-      <td>
-        <ul>
-          <li>Module 1 Quiz</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
-      <td>
-        <ul>
-          <li>Sample student submission from the project, team assignments, and homework</li>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
