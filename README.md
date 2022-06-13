@@ -23,17 +23,8 @@ The primary focus of this repository concerns only the portion of the course whe
       <td><a href="https://github.com/BrixxPanlaqui/HCM-3301-Population-Health-Data-Science-Module/tree/main/Homework">Homework</a></td>
       <td>
         <ul>
-          <li>Module 1 - Introductory CADS Module
-            <ul>
-              <li>Survey Research Lecture</li>
-              <li>Secondary Data Analysis Lecture</li>
-            </ul>
-          </li>
-          <li>Module 2 - Descriptive Statistics Module
-            <ul>
-              <li>Descriptive Statistics Lecture</li>
-            </ul>
-          </li>
+          <li>Homework 1 Analyze Data</li>
+          <li>Homework 2 Analyze Data</li>
         </ul>
       </td>
     </tr>
